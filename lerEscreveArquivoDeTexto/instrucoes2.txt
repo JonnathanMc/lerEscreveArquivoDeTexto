@@ -1,0 +1,319 @@
+﻿#37#
+Em pé na encruzilhada, você pode ir para o norte (vá para 366), para o oeste (volte para 11) 
+ou para o sul (vá para 277).
+!!!
+
+#38#
+Você abre a porta e encontra a dispensa de comidas do Lobisomem, um estoque variado de ossos 
+e carnes apodrecidas. O cheiro provoca náuseas, embora um vidro com ovos em salmoura pareça 
+conter uma comida razoavelmente decente. Se você quiser levá-lo consigo, será suficiente para 
+duas refeições: adicione 2 pontos às suas Provisões.
+
+De volta ao aposento, agora você pode sair pela porta sul. Vá para 66.
+!!!
+
+#40#
+O ruído cortante fica cada vez mais alto. A dor é insuportável. Reduza seu índice de HABILIDADE 
+em 1 ponto, por causa da agonia. Você começa a tatear no escuro em busca de uma parede. Você se 
+dirige para:
+A parede oeste?	Vá para 355
+A parede norte?	Vá para 265
+A parede leste?	Vá para 181
+!!!
+
+#42#
+Afinal você chega ao final da trilha, em um encontro de três caminhos. Você pode ir para o 
+oeste (vá para 257) ou para o leste (vá para 113).
+!!!
+
+#43#
+Você está em uma trilha que vai do norte para o sul. Para ir para o norte, vá para 354. Se 
+quiser o rumo sul, vá para 52.
+!!!
+
+#44#
+Ofegante depois da luta, você se senta para se recuperar e terminar a Provisão que começou a 
+comer. No fim da refeição você fecha a sua mochila e começa a atravessar o rio. Vá para 399.
+!!!
+
+#45#
+O Queijo bate no retrato e quica, Você ouve um riso maldoso vindo de dentro das paredes e com-
+preende que o Feiticeiro está gozando com a sua cara. Você resolve sair do aposento pela porta 
+norte. Vá para 90.
+!!!
+
+#46#
+Você está de pé em uma passagem estreita que vai de leste para oeste, com uma porta que bloqueia 
+o caminho para o leste. Para o oeste, a passagem vira para o sul depois de alguns metros. Para 
+contornar esta curva, volte para 4. Para seguir pela porta, vá para 206.
+!!!
+
+#47#
+No meio do rio, a ponte balança de um lado para o outro sob o peso que você representa. O corrimão 
+se solta de repente quando você se apóia nele. Jogue um único dado. Se der seis, você cai de cabeça 
+no rio lá embaixo - vá para 158. Se o resultado for de 1 a 5, você recupera o equilíbrio. Para 
+seguir, vá para 298.
+!!!
+
+#48#
+Você está em um corredor que vai de leste para oeste. Se você for para leste, há uma curva que se 
+dirige ao norte. Para tomar este caminho, vá para 391. Para seguir para o oeste, vá para 60.
+!!!
+
+#49#
+A porta range ao abrir. As dobradiças estão enferrujadas. O aposento está escuro e seus olhos come-
+çam a se adaptar melhor à escuridão quando você fecha a porta atrás de si. Você ouve um ruído no 
+aposento mas, antes que possa reagir, um golpe na cabeça o derruba sem sentidos. Perca 2 pontos de 
+ENERGIA e vá para 122.
+!!!
+
+#50#
+O ser mortalmente ferido desaba no chão. Você revista suas roupas e não acha nada, mas 
+um pequeno saco está preso a seu pescoço. Dentro deste saco está uma pequena chave de 
+bronze, como número nove gravado nela. Você pode levar essa chave, se quiser. Não há 
+mais nada de valor na caverna, por isso você sai e se dirige de volta à encruzilhada. 
+Vá para 269.
+!!! 
+
+#51#
+Você bebe a Poção e observa o olhar de assombro que toma conta do rosto do Troll. Ele 
+vem na sua dire-ção e tateia, buscando você, mas você escapa pelo lado e ele agarra o 
+ar inutilmente. Ele dá voltas, tentando segurar alguma coisa, mas você consegue evitá-lo 
+facilmente. Afinal ele desiste e retorna a seu lugar, bem na hora em que você já se 
+sente reaparecer. Acrescente 2 pontos de SORTE. Você pode seguir ao longo da passagem 
+para o norte. Vá para 287.
+!!!
+
+#52#
+Você está de pé em uma encruzilhada em forma de T, onde uma passagem para leste sai de 
+um corredor que vai do norte para o sul.
+@
+Para ir para o sul(Vá para 391)
+@
+Para verificar se há passagens secretas no caminho para o sul(Vá para 362)		
+@
+Para ir para o norte(Vá para 354)
+@
+Para verificar se há passagens secretas no caminho para o norte(Vá para 234)
+@
+Para ir para o leste(Vá para 291)
+!!!
+
+#54#
+Você está junto a uma porta na extremidade norte de uma passagem que vai do norte 
+para o sul. Para ir para o sul, vá para 308. Para passar pela porta, vá para 179.
+!!!
+
+#56#
+Quando sua espada cai na água, uma voz borbulhante diz “obrigado!” Parece que agora 
+o único caminho a seguir é nadar a favor da correnteza para o leste. Você mergulha 
+na água. Vá para 399.
+!!!
+
+#57#
+Ao entrar na caverna, você ouve passos pesados atrás de você fazendo muito ruído no 
+chão de pedra. Você se agacha ao lado da entrada em um pequeno buraco na rocha.
+O barulho dos passos cresce de intensidade e você vê um Grande OGRO entrar na caverna! 
+Ele tem mais de dois metros de altura e está vestido com roupas que não lhe servem 
+direito, feitas de algum tipo de pele. Está carregando uma pesada clava de madeira. 
+Você pode:
+@
+Atacá-lo ao entrar(Volte para 16)
+@
+Tentar disfarçar e sair sem que ele repare(Volte para 2)
+@
+Tentar distraí-lo, jogando alguma coisa	para o canto mais distante da caverna(Vá para 119)
+
+#58#
+Cuidadosamente, você se afasta pela passagem. Depois de um curto período de tempo, 
+ela faz uma curva fechada para o norte. Na curva, há um banco de madeira sólida e, 
+acima do banco, um aviso que diz: “Descanse Aqui, Fatigado Viajante.” Aqui você pode 
+parar e comer umas Provisões, se você quiser (volte para 15), ou pode continuar (vá para 367).
+!!!
+
+#59#
+Você anda por algum tempo na direção do oeste, depois vira para o norte em uma curva 
+esquisita que quebra em um ângulo fechadíssimo e se volta para o sul. No final, você 
+chega a uma encruzilhada de três caminhos. Vá para 150.
+!!!
+
+#60#
+Você anda ao longo do corredor, mas descobre que o caminho na direção do oeste está 
+bloqueado por uma pesada porta levadiça. Você retorna para onde estava. Volte para 48.
+!!!
+
+#62#
+Você continua descendo pela passagem para o leste. Depois de uns trinta metros, ela 
+vira para o sul. Ao contornar a curva, você acaba tendo que parar diante de uma grande 
+porta blindada. Para tentar seguir pela porta, volte para 6. Se você preferir retornar 
+pela passagem e passar pela abertura estreita, vá para 89.
+!!!
+
+#63#
+Ao andar ao longo do corredor, você pode ver que ele está ficando cada vez mais estreito 
+à sua frente. Em um certo ponto você se abaixa e, ao fazê-lo, uma risada profunda ressoa 
+à sua volta. Você ainda quer continuar? Em caso afirmativo, vá para 281. Se você preferir 
+voltar, volte para 10.
+!!!
+
+#64#
+O Espectro dança com alegria em volta de seu corpo, deposita-o ao lado dos outros, vira 
+você de bruços e crava os dentes nas suas nádegas. Não é com frequência que ele consegue 
+carne fresca para se alimentar. Sua aventura terminou.
+!!!
+
+#65#
+Quando você se lança contra o Chefe, seu servo levanta-se, pega um pesado porrete de 
+madeira e entra na briga. Mas, para sua decepção, ele ataca você! Crápula ingrato! Ao 
+ver isso, você pode Fugir pela porta, descendo o corredor (vá para 293) ou continuar a 
+luta (vá para 372). Se você decidir Fugir, sofrerá as penalidades normais da fuga.
+!!!
+
+#66#
+A porta abre e você se vê na passagem que leva de volta à margem do rio. Você retorna 
+ao rio e pode agora se encaminhar para a porta no meio da parede de rocha (vá para 104) 
+ou seguir pela passagem que se estende para o leste ao longo da margem do rio (vá para 99).
+!!!
+
+#67#
+Você puxa a corda e uma pequena porta se abre, revelando uma passagem para um corredor 
+que vai do norte para o sul. Você retornará à encruzilhada (vá para 267) ou passará pela 
+porta secreta (vá para 177)?
+!!!
+
+#68#
+Os dois GOBLINS torturadores olham um para o outro surpresos, depois ambos olham para você. 
+Eles conversam entre si e depois fazem sinal para que você espere, enquanto saem e pegam 
+mais um Anão para se divertirem mais um pouco. Eles desaparecem, sumindo do aposento, e 
+você liberta o Anão que já está, como você imaginou, bem morto. Você resolve que o melhor 
+a fazer é ir embora e seguir em frente para o norte, subindo o corredor. Vá para 303.
+!!!
+
+#69#
+A uma certa altura seguindo pela passagem, o corredor faz uma curva para o norte e você con-
+tinua seguindo por ele até atingir uma outra encruzilhada. Nesta encruzilhada, você vê uma 
+flecha desenhada na pedra apontando para o norte, e decide experimentar esta indicação. 
+Vá para 244.
+!!!
+
+#70#
+Você segue o corredor de pedras redondas no chão para o leste, depois para o norte, em 
+seguida para o leste de novo e finalmente para o norte, até que você acaba chegando a 
+uma encruzilhada. Vá para 267.
+!!!
+
+#71#
+Há uma curva na passagem para a direita, levando para o norte. Cautelosamente, você se 
+aproxima de um posto de sentinela em um canto e, ao olhar para dentro, vê um ser estranho,
+parecido com um Goblin, vestido de armadura de couro e adormecido em seu posto. Você tenta
+passar por ele na ponta dos pés. Teste a sua Sorte. Se você tiver sorte, ele não acorda e
+continua a roncar alto – vá para 301. Se você não tiver sorte, você pisa em terreno mole e
+faz um barulho, e os olhos do ser se abrem instantaneamente – vá para 248.
+@
+Testar a sorte
+301
+@
+248
+!!!
+
+#72#
+Você agora tem uma nova armadura, parecida com a sua. Decida qual das duas você quer usar, 
+jogue a outra fora e vá para 319.
+!!!
+
+#73#
+A passagem à sua frente o conduz para o norte. O solo pedregoso vai se tornando arenoso até 
+que, no final, você está andando sobre uma espécie de areia grossa. Você nota que a passagem 
+está se alargando cada vez mais e consegue ouvir um rio correndo ali perto. Você continua em 
+frente até se encontrar em uma grande caverna por dentro da qual passa um rio. Vá para 218.
+!!!
+
+#75#
+Você senta e descansa da batalha exaustiva. Você pode comer algo das Provisões neste momento.
+Você retira a jóia da estátua impassível. Ela pesa bastante em sua mão e deve valer umas 50 
+Peças de Ouro. Você guarda a jóia em sua mochila. Ao explorar o aposento e a estátua, você 
+repara que uma das partes do peitoral dela está solta. Ao abri-la, há uma pequena chave do 
+lado de dentro. Você a examina e nota que existe o número 111 escrito nela. Com um sorriso, 
+você põe a chave também em sua mochila e volta para a encruzilhada. Vá para 93, depois de 
+adicionar 3 pontos à sua SORTE – você conseguiu um artefato valioso.
+!!!
+
+#76#
+Você chega a uma outra encruzilhada. Uma seta na parede aponta para a direção norte e você 
+decide prosseguir nesta direção. Vá para 244.
+!!!
+
+#77#
+Vários metros adiante seguindo pela passagem, você chega a uma encruzilhada onde pode virar 
+para o leste ou para o oeste. Escavada na rocha da parede norte, há uma pequena reentrância 
+onde você pode descansar e comer outras Provisões sem ser visto. Se você quiser comer algo 
+aqui, faça isso. Depois você pode seguir para o leste (vá para 345) ou para o oeste (volte para 18).
+!!!
+
+#78#
+A passagem termina em uma sólida porta de madeira com dobradiças de metal. Ao colar o 
+ouvido na porta, você ouve estranhos resmungos e o ruído do que poderiam ser panelas 
+e potes. O que quer que estivesse do lado de dentro, havia diversos deles. Você quer 
+entrar (vá para 159) ou voltar (vá para 237)?
+!!!
+
+#79#
+A passagem termina diante de um beco sem saída à sua frente. Se você quiser procurar 
+passagens secretas, vá para 137. Caso contrário retorne à encruzilhada em 267.
+!!!
+
+#80#
+A chave serve na fechadura e abre a porta. Você se vê em uma grande casa flutuante. 
+Diversos barcos, em diferentes etapas de construção, encontram-se em torno. Além da 
+porta atrás de você, há uma outra na parede norte. Quando você entra, os Esqueletos 
+interrompem seu trabalho e giram seus pescoços ossudos para olhar para você. Eles pegam 
+ripas de madeira e martelos e avançam na sua direção. Há cinco deles. Você:
+@
+Sorri nervosamente e recua pela porta para a passagem?(Vá para 129)
+@
+Diz a eles que você veio para comprar um barco?(Vá para 123)
+@
+Diz a eles que você é o novo patrão e ordena que eles voltem ao trabalho?(Vá para 195)
+@
+Desembainha a sua espada e se prepara para a luta?(Vá para 140)
+!!!
+
+#81#
+Um ruído o assusta, fazendo com que você pense em sair do aposento o mais rápido 
+possível. Você anda até a porta norte para investigar. Vá para 205.
+!!!
+
+#82#
+A porta se abre para revelar um aposento pequeno e de cheiro forte. No centro do aposento
+há uma mesa de madeira instável onde está uma vela acesa. Embaixo da mesa há uma pequena
+caixa de madeira. Dormindo em um colchão de palha, no canto mais distante do aposento, está
+um ser baixo e robusto, com um rosto feio e cheio de verrugas: o mesmo tipo de ser que você
+encontrou dormindo no posto de sentinela. Deve ser o guarda do turno da noite. Você pode
+retornar para o corredor e seguir em frente para o norte (vá para 208) ou insinuar-se pelo
+aposento para tentar pegar a caixa sem acordar o ser. Se você quiser tentar roubar a caixa,
+Teste a sua Sorte. Se você tiver sorte, ele não acordará - vá para 147. Se não tiver, volte
+para 33.
+!!!
+
+#92#
+Você chega de volta à encruzilhada na passagem. Você olha à esquerda e vê a entrada da 
+caverna à distância, na penumbra, mas segue em frente caminhando. 
+@
+Volte para 71.
+!!!
+
+#278#
+A passagem logo termina em uma porta de madeira trancada. Você cola o ouvido na porta. Mas
+não ouve nada. Você vai tentar derrubá-la? Em caso afirmativo, volte para 156. Se você
+preferir dar meia volta e retornar à encruzilhada, volte para 92.
+!!!
+
+#301#
+À sua esquerda, na parte oeste da passagem, há uma porta de madeira rústica. Você pára 
+junto a ela e ouve um som áspero que poderia ser de algum tipo de criatura roncando. Você
+quer abrir a porta? Em caso afirmativo, volte para 82. Se quiser seguir adiante para o norte,
+volte para 208.
+!!!
+ 
+
+

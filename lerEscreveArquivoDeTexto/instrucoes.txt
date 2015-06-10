@@ -1,0 +1,300 @@
+﻿#1#
+Finalmente a sua caminhada de dois dias chegou ao fim. Você desembainha a sua espada, 
+coloca-a no chão e suspira aliviado, enquanto se abaixa para se sentar nas pedras 
+cheias de musgo para um momento de descanso. Você se espreguiça, esfrega os olhos e,
+afinal, olha para a Montanha do Cume de Fogo.
+
+A própria montanha em si já tem um ar ameaçador. Algum animal gigantesco parece ter 
+deixado as marcas de suas garras na encosta íngreme diante de você. Penhascos rochosos
+e pontudos se projetam, formando ângulos estranhos. No cume você já pode vislumbrar 
+a sinistra coloração vermelha - provavelmente alguma vegetação misteriosa - que deu 
+nome à montanha. Talvez ninguém jamais chegue a saber o que cresce lá em cima, uma 
+vez que escalar o pico deve ser com certeza impossível.
+
+Sua busca está para começar. Do outro lado da clareira há uma escura entrada de caverna.
+Você pega a sua espada, levanta-se e considera que perigos podem estar à sua frente. 
+Mas, com determinação, você recoloca a sua espada na bainha e se aproxima da caverna.
+
+Você dá uma primeira olhada na penumbra e vê-paredess escuras e úmidas com poças de água
+no chão de pedra à sua frente. O ar é frio e úmido. Você acende a sua lanterna e avança 
+cautelosamente pela escuridão. Teias de aranha tocam seu rosto e você ouve a movimentação
+de pés minúsculos: muito provavelmente, ratazanas. Você adentra a caverna. Depois de uns
+poucos metros, chega logo a uma encruzilhada. Você vai:
+@
+para oeste(va para 71)
+71
+@
+para leste(va para 278)
+278
+@
+para blabal
+!!!
+
+#2#
+Teste a sua Sorte. Se você tiver sorte, escapa sem atrair a atenção do Ogro. Se você não
+tiver sorte, chuta acidentalmente uma pequena pedra que sai quicando pelo chão da caverna,
+o que faz você rogar uma praga. Você puxa a espada para o caso do Ogro ter ouvido o barulho
+- vá para 16. Se você tiver tido sorte, retorna silenciosamente pelo corredor até a
+encruzilhada. Vá para 269.
+!!!
+
+#3#
+O sino solta um som abafado e, passados alguns minutos, você vê um velho encarquilhado 
+entrar em um pequeno bote a remo atracado na margem oposta. Ele rema lentamente até a sua 
+margem, atraca o barco e vem mancando até você. Ele pede três Peças de Ouro. Quando você 
+protesta por causa do preço, ele resmunga alguma desculpa esfarrapada sobre a “inflação.” Ele
+começa a ficar zangado com as suas reclamações. Você:
+@
+paga as três Peças de Ouro
+272
+@
+o ameaça 
+127
+!!!
+
+#4#
+Você se encontra em um corredor que vai do norte para o sul. Para o norte, a passagem vira 
+para leste alguns metros à frente. Se quiser investigar, vá para 46. Para o sul, a passagem 
+também vira para o leste. Vá para 332, se quiser ir para o sul.
+
+!!!
+
+#5#
+Há uma porta de madeira rústica na parede leste da passagem. Você coloca o ouvido colado na
+porta e percebe uma espécie de cantilena alegre em surdina. Você quer bater na porta e entrar
+(vá para 97) ou continuar para o norte (vá para 292)?
+@
+Bater na porta e entrar(vá para 97)
+@
+continuar para norte(vá para 292)
+!!!
+
+#6#
+A grande porta maciça não possui maçaneta. Você tenta arrombá-la, mas não adianta. A porta nem
+se mexe. Você resolve desistir e passar pela abertura no caminho leste-oeste, retornando um
+pouco. Vá para 89.
+!!!
+
+#7#
+Você está na margem norte de um rio de correnteza rápida que corre em uma grande caverna
+subterrânea. Vá para 214.
+!!!
+
+#8#
+A passagem à sua frente termina em uma porta sólida. Você tenta escutar algo mas não ouve
+nada. Você experimenta a maçaneta, ela gira e você entra no aposento. Você olha em volta e,
+de repente, ouve um grito de guerra atrás de você: ao se virar, vê um homem selvagem que
+salta sobre você, brandindo uma grande arma. Trata-se de um BÁRBARO louco e você terá que
+lutar contra ele!
+
+###########################################
+# BÁRBARO:   HABILIDADE 7	ENERGIA 6 #
+###########################################
+
+Há uma porta na parede norte do outro lado através da qual você pode Fugir durante o con-
+fronto (vá para 189). Se você derrotar o Bárbaro, vá para 273.
+!!!
+
+#9#
+Surpreso com o sucesso de seu próprio blefe, você resolve apelar um pouco mais para a sua
+sorte. Você pode examinar as ferramentas dos Esqueletos ou fingir que está procurando 
+por papéis de trabalho e vasculharas gavetas dos vários bancos. Se você escolher as 
+ferramentas, vá para 34. Se você revistar as gavetas, vá para 322. Você ouve um ruído que
+vem do outro lado da porta norte e compreende que precisa se apressar em sair dali.
+!!!
+
+#10#
+Você chega de volta à encruzilhada e toma o caminho do norte. Vá para 77.
+!!!
+
+#11#
+Você segue a passagem na direção oeste até que ela vira, contornando uma curva, para o sul. 
+Pouco antes da curva há um aviso que diz “Em Construção”. À sua frente começa uma escada que 
+desce. Somente três degraus foram construídos até agora. Diversas pás, picaretas e outras 
+ferramentas estavam espalhadas pelo chão junto aos degraus mas, quando você virou a curva, 
+elas subitamente entraram em atividade sozinhas e começaram a trabalhar nos degraus. Você está
+agora assistindo às várias ferramentas cavando e martelando, como se fossem manuseadas por 
+trabalhadores invisíveis. Uma cantoria em surdina vai se tornando cada vez mais alta e você 
+identifica as palavras: “Rá-rá, Rá-rá, Lá vamos nós trabalhar...” Enquanto você fica assistindo, 
+começa a rir - a cena é bem divertida. Você senta e fica assistindo, conseguindo até mesmo bater
+um papo com algumas das ferramentas mágicas. Ganhe 2 pontos de ENERGIA e 1 ponto de HABILIDADE
+enquanto relaxa. Depois retorne pela passagem até a encruzilhada, por onde você pode ir:
+@
+para o norte (vá para 366) 
+@
+ou para o sul (vá para 250).
+
+!!!
+
+#12#
+Quando você puxa a alavanca, um barulho ensurdecedor de campainha ecoa pelas passagens. Você
+desesperadamente empurra a alavanca de volta para parar o alarme, mas ela já teve o seu
+efeito. Você ouve passos que se aproximam pelo corredor. Vá para 161 para descobrir o que você
+atraiu. Anote o número 12 para que você possa retornar a esta etapa depois de lutar em sua
+batalha. Quando tiver vencido este ser, você poderá retornar à encruzilhada (vá para 256)
+ou empurrar a alavanca (vá para 364).
+!!!
+
+#13#
+Sua cabeça dói e você se sente tonto ao se levantar. Os quatro homens começam a se movimentar
+e caminham em sua direção com suas armas apontadas. Você tateia pelo caminho junto à parede
+para chegar à porta sul, mas parece pouco provável que você vá conseguir. Seu pé escorrega em
+uma pedra solta e você cai no chão. Antes que você consiga se levantar, os seres já estão em
+cima de você. Vá para 282.
+!!!
+
+#14#
+Não há sinais de quaisquer passagens secretas, mas você subitamente ouve passos que vêm na
+sua direção. Para descobrir o que está se aproximando, vá para 161. Você terá que lutar contra
+mais esta criatura. Se você derrotar o monstro, vá para 117. Anote esta referência para que 
+você saiba para onde retornar.
+!!!
+
+#15#
+Enquanto você está sentado no banco comendo a sua refeição, começa a se sentir profundamente
+relaxado, e as dores de seu corpo parecem estar desaparecendo aos poucos. Este lugar de
+descanso é encantado. Você pode recuperar 2 pontos adicionais de ENERGIA, como também até a
+quantidade normal (mas somente se isso não ultrapassar seu índice Inicial de ENERGIA), e
+recuperar 1 ponto de HABILIDADE, se algum já tiver sido perdido. Quando estiver pronto para
+continuar, siga pela passagem e vá para 367.
+!!!
+
+#17#
+Usando a estaca de madeira e a marreta (ou uma marreta improvisada, se não estiver levando
+uma), você forma uma cruz e avança na direção do Vampiro, encurralando-o em um canto. Ele
+geme e tenta alcançá-lo, mas não pode se aproximar. Porém não vai ser fácil cravar a estaca
+em seu coração. Ao avançar, você tropeça e cai para a frente. Por obra e graça da sorte, a 
+estaca voa.e atinge a criatura que solta um grito. Teste a sua Sorte. Se você tiver sorte,
+a estaca penetra no coração do Vampiro. Se você não tiver sorte, o Vampiro sofre apenas um
+ferimento leve (deduza 3 pontos de sua ENERGIA) e atira você para o outro lado do aposento,
+na direção da porta oeste. Para Fugir por ela, vá para 380. Para continuar lutando, vá para
+144. Se você teve sorte e matou o Vampiro, pode procurar o tesouro dele – vá para 327.
+!!!
+
+#18#
+Você anda para o oeste pela passagem. Após uns 50 metros mais ou menos, o caminho vira para
+o norte. Depois de andar dois ou três passos nesta direção, você ouve um ruído de desmorona-
+mento embaixo de seus pés e tenta recuar, enquanto o chão desaba. Teste a sua Sorte. Se você 
+tiver sorte, consegue pular rapidamente para trás antes que se abra um poço. Se você não tiver 
+sorte é porque foi lento demais e acaba caindo mais de dois metros abaixo em um poço – perde 
+um ponto de ENERGIA. Se você teve sorte, é melhor voltar para a encruzilhada (vá para 261). 
+Se você não teve sorte, vá para 348.
+!!!
+
+#21#
+O sangue verde dos Orças mortos cheira mal, escorrendo lentamente de seus corpos. Você con-
+torna os cadáveres e examina a arca. É um objetivo sólido, feito de carvalho rijo e ferro,
+e está trancada firmemente. Você pode tentar arrebentar a fechadura com sua espada (vá para 339)
+ou deixá-la de lado e sair pela porta aberta (vá para 293).
+!!!
+
+#22#
+Você tateia a parede em busca de sinais de portas secretas, mas não consegue encontrar nada.
+Você pára para pensar em sua situação e um pequeno jato de gás esguicha do teto. Você tosse e
+engasga, tentando limpar os pulmões, mas cai de joelhos. Sua cabeça roda e você desmaia no chão, 
+perdendo a consciência. Quando a recupera, se vê em um lugar desconhecido.
+@
+Volte para 4.
+!!!
+
+#23#
+A passagem termina em uma porta sólida, e você fica surpreso, ao ver uma saia de couro enfiada 
+na parte de baixo da porta. Você põe o ouvido colado na porta, mas não ouve nada. Você prefere 
+entrar no aposento (vá para 326) ou retornar à encruzilhada (vá para 229)?
+!!!
+
+#25#
+Os quadros pintados são retratos de homens. Você sente um frio na espinha ao ler a inscrição
+embaixo do que está na parede oeste - é o nome de Zagor, o Feiticeiro, cujo tesouro você está
+procurando. Você olha para o retrato dele e compreende que está medindo forças com um adversá-
+rio poderosíssimo. Você tem a sensação de estar sendo observado e repara nos olhos penetrantes 
+que o seguem nos seus movimentos. Você se sente atraído para o retrato e o medo aumenta. Perca 
+1 ponto de HABILIDADE. Você tem mesmo coragem de enfrentar e combater o Feiticeiro? Você pode 
+sair direto pela porta norte (vá para 90) - mas considere isso como uma Fuga. Ou você pode tam-
+bém procurar em sua mochila uma arma para usar contra o poder do Feiticeiro – vá para 340.
+!!!
+
+#26#
+De repente você se lembra do pequeno livro de capa de couro de Di Maggio e murmura suavemente as 
+palavras mágicas contidas em suas páginas. Você grita alto com o Dragão e ele pára de avançar. 
+Vira a cabeça de lado e olha desconfiadamente para você. Você joga uma pedra na sua cabeça, que 
+quica em seu nariz. A fera solta um berro raivoso e respira fundo, provocando o som de um rugido 
+no fundo da garganta. O Dragão solta o ar e, entre seus dentes, você vê uma outra bola de fogo 
+se formando. Você se prepara e, quando a bola de fogo sai de sua boca, grita:
+
+"Ekil Erif
+Ekam Erif
+Erif Erif
+Di Maggio"
+
+A bola de fogo interrompe seu avanço. Com um berro de agonia, o Dragão tenta se livrar das 
+chamas em seu focinho. Mas elas continuam a queimar ali mesmo. Gemendo de dor, o Dragão se 
+vira e salta para a escuridão, sacudindo a cabeça de um lado para o outro. Vá para 371.
+!!!
+
+#27#
+A espada é encantada e o ajudará na batalha. Enquanto você usar esta espada, poderá 
+aumentar sua HABILIDADE Inicial em 2 pontos. Você pode também aumentar 2 pontos no 
+valor atual de sua HABILIDADE. Acrescente 2 pontos à sua SORTE por ter encontrado esta 
+espada. Jogue fora a sua espada velha e vá para 319. Se você preferir ficar coma sua 
+própria espada, deixe sua HABILIDADE como está e fique apenas com o prêmio da SORTE.
+!!!
+
+#28#
+O poderoso Gigante está morto! Você examina a caverna dele e acha pouca coisa que tenha 
+utilidade, embora uma bolsa no cinto dele contenha oito Peças de Ouro. Você está um pouco 
+preocupado com relação à segunda cadeira. A quem pertence? Você resolve sair da caverna 
+como entrou. Vá para 351. Mas acrescente 2 pontos à sua SORTE e 2 à sua HABILIDADE pela 
+sua vitória.
+!!!
+
+#29#
+A não ser pelas botas, as quais você resolve ignorar, parece haver pouca coisa de valor 
+na caverna. Você decide voltar por onde veio. Vá para 375.
+!!!
+
+#30#
+Uma pedra solta cai e revela a presença de uma corda presa na rocha. Se você quiser puxá-la,
+vá para 67. Se sentir que seria prudente não mexer nela, poderá retornar à encruzilhada 
+(vá para 267).
+!!!
+
+#31#
+Se você tiver a jóia do Olho do Ciclope, segure-a diante do Feiticeiro. Seu olhar intimidador 
+se transforma em uma expressão de dor. Ele obviamente sente o poder da jóia. Subitamente os 
+olhos dele ficam brancos e sua expressão torna-se ausente. A confiança cresce à medida em que 
+você toma consciência de que venceu a sua primeira verdadeira batalha. Ganhe 2 pontos de HABILIDADE. 
+Ponha a jóia de volta em sua mochila e saia pela porta norte. Vá para 90.
+!!!
+
+#32#
+Você joga o Queijo para o outro lado do aposento e as Ratazanas correm atrás dele, mordendo-se 
+e arranhando umas às outras enquanto lutam por ele. Já que as distraiu, você atravessa o 
+aposento e sai pela porta da parede norte. Vá para 124. Adicione 2 pontos à sua SORTE pelo 
+seu êxito.
+!!!
+
+#34#
+Examinando as ferramentas, você encontra uma marreta com cabeça de madeira dura e um cinzel 
+com uma sólida lâmina de prata. Você só pode ficar com uma das duas, isto se estiver preparado 
+para dispensar um dos itens do equipamento que já está carregando. Se quiser fazer isso, faça 
+as correções necessárias na sua Lista de Equipamento. O ruído na porta norte fica mais alto 
+ainda e você vai até lá para investigar. Vá para 96.
+!!!
+
+#35#
+Ao entrar no aposento, a porta se fecha imediatamente atrás de você. Ao se fechar, ouve-se um 
+estalo e um esguicho. Do centro do teto, um jato de gás está enchendo o aposento com um vapor 
+acre. Você tenta respirar e tosse convulsivamente. Você olha para a porta e depois para a chave. 
+Você retornará à porta e escapará rapidamente (vá para 136) ou prenderá a respiração e correrá 
+para pegar a chave primeiro (vá para 361)?
+!!!
+
+#36#
+A porta trancada abre-se violentamente e um mau cheiro insuportável chega às suas narinas. 
+Dentro do aposento, o chão está coberto de ossos, vegetação apodrecida e lodo. Um velho de 
+cabelos desgrenhados, vestido de trapos, salta sobre você gritando. Tem uma barba longa e 
+grisalha e sacode um velho pé de cadeira de madeira. Ele simplesmente está louco, como parece, 
+ou isto é algum tipo de armadilha? Você pode gritar com ele para tentar acalmá-lo (vá para 263) 
+ou pegar na sua espada e atacá-lo (vá para 353).
+!!!
